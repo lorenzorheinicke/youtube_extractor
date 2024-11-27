@@ -35,4 +35,15 @@ ENV/
 *.swo
 
 # Temporary files
-temp_audio 
+temp_audio
+temp_audio.*
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.ogg
+*.webm
+
+# YouTube downloads
+*.part
+*.ytdl
